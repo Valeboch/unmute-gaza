@@ -1,3 +1,3 @@
 # unmute-gaza
-Unmute gaza, paint your image in the frame based on a picture of these and stick them around your city 
+Unmute gaza, paint your image in the frame based on a picture of these and stick them around your city \n
 For more detailed info reade the instruction pdf file
